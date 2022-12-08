@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+body {
+    background-color: #b6ebed;
+}
+ul{
+    list-style-type: none;
+    margin-right: 20px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+ul li{
+    font-size: 24px;
+    margin-right: 195px;
+    margin-left: 220px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: rgb(241, 219, 149);
+    font-size: 100px;
+    text-align:center;
+    font-family: 'Copperplate', sans-serif;   
+    line-height: 42px;
+    text-transform: uppercase;
+    text-shadow: 0 2px rgb(39, 31, 67), 0 3px #777;
+}
+.header {
+    color: rgb(159, 159, 197);
+    font-size: 60px;
+}
+
+h2{ margin-right: 800px;
+
+}
+h3 { margin-left: 800px;
+}
+h4 {
+    color: rgb(159, 159, 197);
+    font-size: 100px;
+}
+h5 {
+    font-size: 30px;
+    font-family:DengXian;
+    color: black
+}
