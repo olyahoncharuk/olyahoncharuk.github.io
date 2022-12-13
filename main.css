@@ -63,15 +63,15 @@ h5 {
 }
 a{
     text-decoration: none;
-    color: white;
+    color: rgb(75, 151, 205);
 }
 a:visited{
     text-decoration: none;
-    color: white;
+    color: rgb(75, 151, 205);
 }
 a:active{
     text-decoration: none;
-    color: white;
+    color: rgb(75, 151, 205);
 }
 a:hover{
     text-decoration: underline;
